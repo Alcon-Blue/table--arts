@@ -1,0 +1,37 @@
+        /*comentário*/
+        /*Pradrão de formato css
+
+selected tag {
+    property: value
+
+}*/
+        
+        @import url('https://fonts.googleapis.com/css2?family=Kaushan+Script&display=swap');
+        body {
+            background-color: rgb(186, 197, 147);
+        }
+        
+        th {
+            color: brown;
+        }
+        
+        img {
+            width: 400px;
+            height: 440px;
+        }
+        
+        h1 {
+            text-align: center;
+            font-family: 'Kaushan Script', cursive;
+            font-size: large 100px;
+        }
+        
+        td {
+            color: black;
+            text-align: center;
+        }
+        
+        th {
+            width: 40px;
+            height: 30px;
+        }
